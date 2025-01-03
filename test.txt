@@ -1,3 +1,4 @@
 test1
 we are testing git 
 hi 
+in example branch
