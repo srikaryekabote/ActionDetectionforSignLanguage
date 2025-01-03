@@ -1,1 +1,18 @@
 test2
+ m
+ kjn
+ mjnj
+ error: pathspec 'testBehind' did not match any file(s) known to git
+PS C:\Users\srika\exploreGit\ActionDetectionforSignLanguage>  git pull
+remote: Enumerating objects: 1, done.
+remote: Counting objects: 100% (1/1), done.
+remote: Total 1 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (1/1), 906 bytes | 453.00 KiB/s, done.
+From https://github.com/srikaryekabote/ActionDetectionforSignLanguage
+   dbfea76..4935222  main       -> origin/main
+ * [new branch]      testBehind -> origin/testBehind
+Already up to date.
+PS C:\Users\srika\exploreGit\ActionDetectionforSignLanguage> git checkout testBehind
+Switched to a new branch 'testBehind'
+branch 'testBehind' set up to track 'origin/testBehind'.
+PS C:\Users\srika\exploreGit\ActionDetectionforSignLanguage>
